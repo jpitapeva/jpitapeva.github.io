@@ -9,4 +9,4 @@
 
 ## Sobre
 
-Analista de Desenvolvimento de Produtos e Desenvolvedor de Sistemas formado em Engenharia da Computação
+Analista de Desenvolvimento de Produtos e Desenvolvedor de Sistemas formado em Engenharia da Computação.
